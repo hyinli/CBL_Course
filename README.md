@@ -46,14 +46,14 @@ PLT>400×109/L称血小板增多。①原发性增多，如慢性粒细胞白血
 
 ### 1.3 原始资料
 
-[](https://imgchr.com/i/MNA9G4)
-[](https://imgchr.com/i/MNAPz9)
-[](https://imgchr.com/i/MNApiF)
-[](https://imgchr.com/i/MNkzIU)
-[](https://imgchr.com/i/MNkxaT)
-[](https://imgchr.com/i/MNACRJ)
-[](https://imgchr.com/i/MNAFMR)
-[](https://imgchr.com/i/MNAks1)
+![1](https://imgchr.com/i/MNA9G4)
+![2](https://imgchr.com/i/MNAPz9)
+![3](https://imgchr.com/i/MNApiF)
+![4](https://imgchr.com/i/MNkzIU)
+![5](https://imgchr.com/i/MNkxaT)
+![6](https://imgchr.com/i/MNACRJ)
+![7](https://imgchr.com/i/MNAFMR)
+![8](https://imgchr.com/i/MNAks1)
 
 ## 2 感染的实验诊断
 

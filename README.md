@@ -46,14 +46,14 @@ PLT>400×109/L称血小板增多。①原发性增多，如慢性粒细胞白血
 
 ### 1.3 原始资料
 
-![1](https://imgchr.com/i/MNA9G4)
-![2](https://imgchr.com/i/MNAPz9)
-![3](https://imgchr.com/i/MNApiF)
-![4](https://imgchr.com/i/MNkzIU)
-![5](https://imgchr.com/i/MNkxaT)
-![6](https://imgchr.com/i/MNACRJ)
-![7](https://imgchr.com/i/MNAFMR)
-![8](https://imgchr.com/i/MNAks1)
+[![MNA9G4.jpg](https://s2.ax1x.com/2019/11/14/MNA9G4.jpg)](https://imgchr.com/i/MNA9G4)
+[![MNAPz9.jpg](https://s2.ax1x.com/2019/11/14/MNAPz9.jpg)](https://imgchr.com/i/MNAPz9)
+[![MNApiF.jpg](https://s2.ax1x.com/2019/11/14/MNApiF.jpg)](https://imgchr.com/i/MNApiF)
+[![MNkzIU.jpg](https://s2.ax1x.com/2019/11/14/MNkzIU.jpg)](https://imgchr.com/i/MNkzIU)
+[![MNkxaT.jpg](https://s2.ax1x.com/2019/11/14/MNkxaT.jpg)](https://imgchr.com/i/MNkxaT)
+[![MNACRJ.jpg](https://s2.ax1x.com/2019/11/14/MNACRJ.jpg)](https://imgchr.com/i/MNACRJ)
+[![MNAFMR.jpg](https://s2.ax1x.com/2019/11/14/MNAFMR.jpg)](https://imgchr.com/i/MNAFMR)
+[![MNAks1.jpg](https://s2.ax1x.com/2019/11/14/MNAks1.jpg)](https://imgchr.com/i/MNAks1)
 
 ## 2 感染的实验诊断
 

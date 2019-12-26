@@ -610,6 +610,15 @@ ALT 显著升高， AST升高，TP下降，Alb降低，G升高，A/G 倒置；�
 因有腹水，出血，慢性活动性乙型肝炎6年，并B超显示肝硬化，因此确诊为肝硬化失代偿期。应进一步进行原发性肝癌的筛查。建议做肿瘤标志物如AFP等检查，并做腹部加强CT以确诊。做全腹部彩色超声波检查及肠镜等消化系统检查，排除肿瘤转移。做腹水检测，查癌细胞和肿瘤标志物。
 
 ### 原始资料（检验报告）
-
+[![lkthy6.jpg](https://s2.ax1x.com/2019/12/26/lkthy6.jpg)](https://imgchr.com/i/lkthy6)
+[![lkt2WR.jpg](https://s2.ax1x.com/2019/12/26/lkt2WR.jpg)](https://imgchr.com/i/lkt2WR)
+[![lktcFJ.jpg](https://s2.ax1x.com/2019/12/26/lktcFJ.jpg)](https://imgchr.com/i/lktcFJ)
+[![lktfQx.jpg](https://s2.ax1x.com/2019/12/26/lktfQx.jpg)](https://imgchr.com/i/lktfQx)
+[![lktgY9.jpg](https://s2.ax1x.com/2019/12/26/lktgY9.jpg)](https://imgchr.com/i/lktgY9)
+[![lkt4OK.jpg](https://s2.ax1x.com/2019/12/26/lkt4OK.jpg)](https://imgchr.com/i/lkt4OK)
+[![lktIeO.jpg](https://s2.ax1x.com/2019/12/26/lktIeO.jpg)](https://imgchr.com/i/lktIeO)
+[![lktowD.jpg](https://s2.ax1x.com/2019/12/26/lktowD.jpg)](https://imgchr.com/i/lktowD)
+[![lktTTe.jpg](https://s2.ax1x.com/2019/12/26/lktTTe.jpg)](https://imgchr.com/i/lktTTe)
+[![lktHFH.jpg](https://s2.ax1x.com/2019/12/26/lktHFH.jpg)](https://imgchr.com/i/lktHFH)
 ### 课后思考题说明
 第四篇课后思考题选自练习册，不是来源于临床病例，因此没有病例资料。

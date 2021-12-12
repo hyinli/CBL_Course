@@ -52,7 +52,7 @@ PLT>400×109/L称血小板增多。①原发性增多，如慢性粒细胞白血
 ![自身抗体检查](https://user-images.githubusercontent.com/49932588/145697806-8fb3e67a-62b0-46ca-9646-c1c2f971aa99.png)
 ![肿瘤标记物](https://user-images.githubusercontent.com/49932588/145697826-5e87df25-3b8d-477c-b5f7-2455a1b6e9ad.png)
 ![直接抗人球蛋白](https://user-images.githubusercontent.com/49932588/145697843-bbddab4c-19f2-4424-bb7c-59ee8d0424d2.png)
-![便常规](https://user-images.githubusercontent.com/49932588/145697846-b6243db3-c779-49b8-9abb-93b4798a21c2.png)
+![便常规](https://user-images.githubusercontent.com/49932588/145698391-feff7320-f893-4f74-b5b3-3bc5e3409246.png)
 ![营养性贫血](https://user-images.githubusercontent.com/49932588/145697855-3f4b88c0-f43b-4e5d-9bca-6fad67bc86dd.png)
 ![生化](https://user-images.githubusercontent.com/49932588/145697857-f747e443-67a2-466d-a434-01a978fcccf6.png)
 

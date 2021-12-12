@@ -116,4 +116,7 @@ PLT 减少原因？PLT<100×109/L称血小板减少。血小板减少见于：�
 ![阑尾炎出院2](https://user-images.githubusercontent.com/49932588/145698074-065d8fba-58e0-4f97-85d6-3f7a37315639.png)
 ![阑尾炎血培养](https://user-images.githubusercontent.com/49932588/145698095-662e94a8-341a-40bf-8c13-ce24675007af.png)
 ![阑尾炎出院血常规](https://user-images.githubusercontent.com/49932588/145698099-61507cb5-070b-4587-9315-f1f13f8c3074.png)
+## 课后病例说明
+课后的病例分析由于是选自参考书，因此无病例原始资料。
 
+# 实验三 

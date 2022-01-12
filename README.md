@@ -257,6 +257,50 @@ CD55、CD59：RBC-CD55 98.05%，RBC-CD59 99.68%，WBC-CD55 99.56%，WBC-CD59 98.
 ![凝血功能](https://user-images.githubusercontent.com/49932588/146506882-71ecac98-7a6e-412e-9a69-ecadbc36340a.png)
 ![网织红细胞](https://user-images.githubusercontent.com/49932588/146506886-52534233-452c-4dcd-8c23-1b695b12687a.png)
 ![细胞形态](https://user-images.githubusercontent.com/49932588/146506896-a3dda47d-1611-45d5-a723-db6643c977c4.png)
+# 第四篇出血、血栓性疾病的实验诊断
+> 某男，33岁，患者近2周来无明显诱因出现腹胀,进食后加重,伴腹泻,约6-7次/日,每次约50-80m1，偶见鲜红色血丝，无里急后重感，病程中伴有发热，最高体温不详,无腹庝,无恶心、呕吐,无胸闷、气促等。起病后曾就诊当地诊所，经输液治疗（具体不详）后病情稍好转，为进一步治疗来医院门诊就诊。患者自述有10年饮酒史，每天饮酒量1斤。自发病以来，饮食、睡眠及精神差，尿色黄，大便如上述，近3月体重减轻4kg。<br /> 
+>**查体**  T 36.7℃，P 97次/分，R 20次/分，BP 114/70mmHg，皮肤黏膜正常，无黄疸，无皮疹，无出血点，腹部柔软，无压痛和反跳痛，无振水音，移动性浊音（-），肋下3cm可触及肝脏，脾脏未触及。<br /> 
+>**实验室检查结果：** WBC 21.12×109/L，RBC 3.82×1012/L，HGB 121g/L，PLT 185×109/L，N 87.4%，HBsAg(+)，HBeAb(+)，HBcAb(+)，HBsAb(-)，HBeAg(-)， HBV-DNA 5.42×103copies/ml （参考范围＜1×103copies/ml），血肌酐 80µmol/L，尿素氮 3.84mmol/L，二氧化碳结合力 25.2mmol/L，尿酸 384µmol/L，ALT 76U/L，AST 97U/L，GGT 347U/L，ALP 102U/L，总蛋白 51.6g/L，白蛋白 31.6g/L，球蛋白 21g/L，A/G 1.46，总胆红素 34.1µmol/L，直接胆红素 11.3µmol/L，钾 3.25mmol/L，钠 134mmol/L，钙 2.12mmol/L，氯 94.9mmol/L。<br /> 
+
+## (1)试分析检验结果并作出初步诊断。还应做哪些检查以利于明确诊断？<br /> 
+① 血常规：WBC升高，RBC下降；<br /> 
+②乙肝两对半检测：小三阳；HBV-DNA升高；<br /> 
+③肝功：总蛋白下降，白蛋白下降，白/球比值倒置；胆红素正常；酶除ALP外均升高；<br /> 
+④肾功：正常；⑤电解质：低钾、低钠、低钙、低氯，电解质紊乱。<br /> 
+**初步诊断：**<br /> 
+1.乙型肝炎；<br /> 
+2.酒精性肝硬化（依据：临床表现腹胀,进食后加重,伴腹泻, 有10年饮酒史，每天饮酒量1斤。自发病以来，饮食、睡眠及精神差，尿色黄，近3月体重减轻4kg。）因此，需要进一步做腹部彩超，确诊此病。<br /> 
+## (2)进一步检查结果，行腹部彩超提示：肝实质弥漫性改变，结合病史考虑酒精性肝硬化,门诊拟“酒精性肝硬化失代偿期”收入院,试分析此病例应与哪些疾病相鉴别？请说出依据。<br /> 
+原发性肝癌，临床表现中，患者腹胀，腹泻，体重减轻。实验室检查肝功异常，乙肝免疫检查提示小三阳。建议做肿瘤标志物如AFP等检查，并做腹部加强CT以确诊。
+## (3)该患入院时凝血功能检查结果：D-二聚体 1.76mg/L，APTT 32.8秒，PT 20.9秒，INR 1.83，TT 20.1秒，FIB 5.35 g/L，请问是否存在凝血功能异常，试分析原因？<br /> 
+D-二聚体、PT、FIB升高，凝血功能异常。原因：肝炎及肝硬化导致肝功能减低，产生凝血因子减少，使凝血功能异常。<br /> 
+PT的延长，AST高于ALT，RBC下降，这些结果提示患者可能处于肝硬化失代偿期，需进一步通过CT及B超诊断。尽管目前患者没有蜘蛛痣，出血，脾大等表现。<br /> 
+![image](https://user-images.githubusercontent.com/49932588/149145181-a0d19191-c44b-4261-8434-04de7e22cdb4.png)
+![chenxiaogang](https://user-images.githubusercontent.com/49932588/149145236-41b900db-c0b3-4aad-ae4a-b0d2ab79ebea.png)
+![chenxiaogang2](https://user-images.githubusercontent.com/49932588/149145252-5654ceee-8657-4868-a8f5-6994bf89746a.png)
+![gangxiaogang3](https://user-images.githubusercontent.com/49932588/149145210-9e6f1328-ee79-4cb4-9154-ab9234d30125.png)
+![入院记录1](https://user-images.githubusercontent.com/49932588/149145283-fb866a11-0f55-4984-b5c1-f5a3483635c8.jpg)
+![入院记录2](https://user-images.githubusercontent.com/49932588/149145312-1287a55a-41e0-45e6-99aa-3cf2f15f6b2b.jpg)
+![入院记录3](https://user-images.githubusercontent.com/49932588/149145328-8996dc44-ba6a-4a00-9f93-9f9af20fbbe8.jpg)
+![乙肝DNA](https://user-images.githubusercontent.com/49932588/149145337-ff079ca3-8e49-47ab-8440-38312ed6612a.jpg)
+![乙肝两对半](https://user-images.githubusercontent.com/49932588/149145350-636fe73a-5b95-477c-a4ce-da0f9f539f6d.jpg)
+![治疗后凝血](https://user-images.githubusercontent.com/49932588/149145363-c1aee7fa-73b1-4d45-baa6-836cb2175f32.jpg)
+![治疗后生化](https://user-images.githubusercontent.com/49932588/149145380-5604bbf6-9514-414a-98a5-613f6c1e0b69.jpg)
+![治疗后血常规](https://user-images.githubusercontent.com/49932588/149145390-974a17b2-17a5-426c-bcf9-eb2f5bb57310.jpg)
+![治疗前凝血](https://user-images.githubusercontent.com/49932588/149145400-02c3c05e-8dea-4bc4-b43e-b517cc1ccf62.jpg)
+![治疗前生化](https://user-images.githubusercontent.com/49932588/149145411-97374fce-37e1-42fc-aca9-a45cc7112021.jpg)
+![治疗前血常规](https://user-images.githubusercontent.com/49932588/149145422-dae8edc6-d96c-4c04-91f5-23017632f95e.jpg)
+![出院记录](https://user-images.githubusercontent.com/49932588/149145439-c7576b10-af61-4969-832c-214178682a22.jpg)
+
+
+## 课后思考题
+## （1）	请分析检验结果。
+ALT 显著升高， AST升高，TP下降，Alb降低，G升高，A/G 倒置；凝血功能除Fg正常外，其余异常。TT可被甲苯胺蓝纠正，说明血液中存在类肝素样物质。
+蛋白质电泳也提示：免疫球蛋白多克隆增加。
+## （2）请做出初步诊断并提出进一步检测的建议。
+因有腹水，出血，慢性活动性乙型肝炎6年，并B超显示肝硬化，因此确诊为肝硬化失代偿期。应进一步进行原发性肝癌的筛查。建议做肿瘤标志物如AFP等检查，并做腹部加强CT以确诊。做全腹部彩色超声波检查及肠镜等消化系统检查，排除肿瘤转移。做腹水检测，查癌细胞和肿瘤标志物。
+## 第四篇课后思考题选自练习册，不是来源于临床病例，因此没有病例资料
+
 
 
 

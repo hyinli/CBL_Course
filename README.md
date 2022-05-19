@@ -34,9 +34,31 @@
 ![image](https://user-images.githubusercontent.com/49932588/169305467-8962858f-fa29-480b-b655-b76c60e50c3b.png)
 ## 早幼红细胞
 ---------
+![image](https://user-images.githubusercontent.com/49932588/169305669-e4fcd757-1ae8-43d1-92aa-ef8ecc147ca4.png)
 
-## 中性杆状核粒细胞
+## 中幼红细胞
 ---------
+![image](https://user-images.githubusercontent.com/49932588/169305729-e8bf115c-d37c-4bac-a39f-8aa767e09372.png)
 
-## 中性杆状核粒细胞
+## 晚幼红细胞
+---------
+![image](https://user-images.githubusercontent.com/49932588/169305827-f9f625b6-ecfd-44c3-a9bf-f3850958f5b9.png)
+
+## 原始单核细胞
+---------
+![image](https://user-images.githubusercontent.com/49932588/169305881-1891faf9-bf52-4cb1-b39a-0e2da43623ea.png)
+
+## 幼稚单核细胞
+---------
+![image](https://user-images.githubusercontent.com/49932588/169305971-cbd977a5-adf8-4f46-9147-12a8763197f4.png)
+
+## 单核细胞
+---------
+![image](https://user-images.githubusercontent.com/49932588/169306042-68ad85bf-f425-4612-988b-1864f92e58a4.png)
+
+## 原始淋巴细胞
+---------
+![image](https://user-images.githubusercontent.com/49932588/169306103-e5596d09-de53-4f07-9035-7a1d21b5c447.png)
+
+## 幼稚淋巴细胞
 ---------
